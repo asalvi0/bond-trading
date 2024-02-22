@@ -7,7 +7,7 @@ require (
 	github.com/go-playground/validator/v10 v10.17.0
 	github.com/goccy/go-json v0.10.2
 	github.com/gofiber/contrib/jwt v1.0.8
-	github.com/gofiber/fiber/v2 v2.52.0
+	github.com/gofiber/fiber/v2 v2.52.1
 	github.com/golang-jwt/jwt/v5 v5.2.0
 	github.com/i25959341/orderbook v0.2.5
 	github.com/jackc/pgx/v5 v5.5.2
